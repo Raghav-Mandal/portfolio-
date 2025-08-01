@@ -1,0 +1,13 @@
+/* navigation.css */
+
+.nav-ul {
+  @apply flex gap-3 px-5 my-3 mx-2 list-none sm:block;
+}
+
+.nav-li {
+  @apply text-neutral-400 hover:text-white;
+}
+
+.nav-link {
+  @apply text-neutral-400 hover:text-white;
+}
